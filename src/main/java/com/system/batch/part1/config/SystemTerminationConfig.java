@@ -1,4 +1,4 @@
-package com.system.batch.config;
+package com.system.batch.part1.config;
 
 
 import org.springframework.batch.core.Job;
